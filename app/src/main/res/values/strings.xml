@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">Lao Food</string>
+    <string name="hello_world">Hello! LAOS</string>
+    <string name="language_setting">Change Language</string>
+    <string name="about">About Us</string>
+    <string name="detail">Detail of Food</string>
+    <string name="share">Share</string>
+
+    <string name="lang_dialog_title">Change Language</string>
+    <string name="lang_dialog_message">What Do you want to Change Language ?</string>
+
+    <string name="change">Change</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="khaosoii">Khao Soii</string>
+    <string name="khaoniew">Sticky Rice</string>
+
+    <string name="papaya_salat">Papaya Salat</string>
+    <string name="larb">Larb</string>
+
+    <string name="khaolarm">Khao Larm</string>
+    <string name="khao_g">Khao G</string>
+
+    <string name="mieng">Mieng</string>
+    <string name="fer">Fer</string>
+
+    <string name="detailTest">     The final project is a chance for you to combine and practice everything you learned from this course. You will be making your own Android app - taking it from the idea stage to building out the full app, with an opportunity to publish it in the Google Play store. The goal is to create an educational app that teaches 5 new things to a user on a certain topic of your choice. We want you to be creative about how you accomplish this. It’s up to you what these 5 things will be and how you want to present this to your user.</string>
+
+    <!-- Language select dialog -->
+    <string-array name="lang_select">
+        <item>English Language</item>
+        <item>Lao Language</item>
+    </string-array>
+
+</resources>

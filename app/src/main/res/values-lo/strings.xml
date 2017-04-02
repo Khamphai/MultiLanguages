@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ອາຫານລາວ</string>
+    <string name="hello_world">ສະບາຍດີ ປະເທດລາວ!</string>
+    <string name="language_setting">ປ່ຽນພາສາ</string>
+    <string name="about">ກ່ຽວກັບພວກເຮົາ</string>
+    <string name="detail">ລາຍລະອຽດຂອງອາຫານ</string>
+    <string name="share">ແຊຣ໌</string>
+
+    <string name="lang_dialog_title">ປ່ຽນພາສາ</string>
+    <string name="lang_dialog_message">ເຈົ້າຕ້ອງການປ່ຽນພາສາຫຍັງ ?</string>
+
+    <string name="change">ປ່ຽນພາສາ</string>
+    <string name="cancel">ຍົກເລີກ</string>
+
+    <string name="khaosoii">ເຂົ້າຊອຍ</string>
+    <string name="khaoniew">ເຂົ້າໜຽວ</string>
+
+    <string name="papaya_salat">ຕຳໝາກຫຸ່ງ</string>
+    <string name="larb">ລາບ</string>
+
+    <string name="khaolarm">ເຂົ້າຫລາມ</string>
+    <string name="khao_g">ເຂົ້າຈີ່ປະເຕ໋</string>
+
+    <string name="mieng">ໝ້ຽງ</string>
+    <string name="fer">ເຝີ</string>
+
+    <string name="detailTest">   ໂຄງການຂັ້ນສຸດທ້າຍແມ່ນໂອກາດສໍາລັບທ່ານເພື່ອສົມທົບແລະປະຕິບັດທຸກສິ່ງທຸກຢ່າງທີ່ທ່ານໄດ້ຮຽນຮູ້ຈາກວິຊານີ້. ທ່ານຈະໄດ້ຮັບການເຮັດໃຫ້ app Android ຂອງທ່ານເອງ - ກິນຈາກຂັ້ນຕອນຂອງການຄິດໃນການກໍ່ສ້າງອອກ app ຢ່າງເຕັມທີ່, ມີໂອກາດທີ່ຈະເຜີຍແຜ່ໃນຮ້ານຫຼິ້ນກູໂກໄດ້. ເປົ້າຫມາຍແມ່ນເພື່ອສ້າງເປັນ app ສຶກສາທີ່ teaches 5 ສິ່ງໃຫມ່ໃຫ້ກັບຜູ້ໃຊ້ໃນຫົວຂໍ້ສະເພາະໃດຫນຶ່ງຂອງທາງເລືອກຂອງທ່ານ. ພວກເຮົາຕ້ອງການໃຫ້ທ່ານທີ່ຈະສ້າງສັນກ່ຽວກັບວິທີທີ່ທ່ານສໍາເລັດນີ້. ມັນຂຶ້ນກັບທ່ານສິ່ງເຫຼົ່ານີ້ 5 ສິ່ງທີ່ຈະເປັນແລະວິທີທີ່ທ່ານຕ້ອງການທີ່ຈະນໍາສະເຫນີນີ້ໃຫ້ກັບຜູ້ໃຊ້ຂອງທ່ານ.</string>
+
+    <!-- Language select dialog -->
+    <string-array name="lang_select">
+        <item>ພາສາ ອັງກິດ</item>
+        <item>ພາສາ ລາວ</item>
+    </string-array>
+</resources>
